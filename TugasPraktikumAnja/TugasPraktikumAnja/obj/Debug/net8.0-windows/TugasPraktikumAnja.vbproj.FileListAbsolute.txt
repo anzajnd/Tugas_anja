@@ -1,0 +1,17 @@
+C:\vsual basic\TugasPraktikumAnja\TugasPraktikumAnja\obj\Debug\net8.0-windows\TugasPraktikumAnja.Frmpraktikum1.resources
+C:\vsual basic\TugasPraktikumAnja\TugasPraktikumAnja\obj\Debug\net8.0-windows\TugasPraktikumAnja.Resources.resources
+C:\vsual basic\TugasPraktikumAnja\TugasPraktikumAnja\obj\Debug\net8.0-windows\TugasPraktikumAnja.vbproj.GenerateResource.cache
+C:\vsual basic\TugasPraktikumAnja\TugasPraktikumAnja\obj\Debug\net8.0-windows\TugasPraktikumAnja.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsual basic\TugasPraktikumAnja\TugasPraktikumAnja\obj\Debug\net8.0-windows\TugasPraktikumAnja.AssemblyInfoInputs.cache
+C:\vsual basic\TugasPraktikumAnja\TugasPraktikumAnja\obj\Debug\net8.0-windows\TugasPraktikumAnja.AssemblyInfo.vb
+C:\vsual basic\TugasPraktikumAnja\TugasPraktikumAnja\obj\Debug\net8.0-windows\TugasPraktikumAnja.vbproj.CoreCompileInputs.cache
+C:\vsual basic\TugasPraktikumAnja\TugasPraktikumAnja\bin\Debug\net8.0-windows\TugasPraktikumAnja.exe
+C:\vsual basic\TugasPraktikumAnja\TugasPraktikumAnja\bin\Debug\net8.0-windows\TugasPraktikumAnja.deps.json
+C:\vsual basic\TugasPraktikumAnja\TugasPraktikumAnja\bin\Debug\net8.0-windows\TugasPraktikumAnja.runtimeconfig.json
+C:\vsual basic\TugasPraktikumAnja\TugasPraktikumAnja\bin\Debug\net8.0-windows\TugasPraktikumAnja.dll
+C:\vsual basic\TugasPraktikumAnja\TugasPraktikumAnja\bin\Debug\net8.0-windows\TugasPraktikumAnja.pdb
+C:\vsual basic\TugasPraktikumAnja\TugasPraktikumAnja\obj\Debug\net8.0-windows\TugasPraktikumAnja.dll
+C:\vsual basic\TugasPraktikumAnja\TugasPraktikumAnja\obj\Debug\net8.0-windows\refint\TugasPraktikumAnja.dll
+C:\vsual basic\TugasPraktikumAnja\TugasPraktikumAnja\obj\Debug\net8.0-windows\TugasPraktikumAnja.pdb
+C:\vsual basic\TugasPraktikumAnja\TugasPraktikumAnja\obj\Debug\net8.0-windows\TugasPraktikumAnja.genruntimeconfig.cache
+C:\vsual basic\TugasPraktikumAnja\TugasPraktikumAnja\obj\Debug\net8.0-windows\ref\TugasPraktikumAnja.dll
